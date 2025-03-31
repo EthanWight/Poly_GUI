@@ -44,4 +44,3 @@ This application requires the following JavaScript libraries:
 
 ## Author
 Ethan Wight  
-March 30, 2025  
